@@ -12,6 +12,8 @@
 </p>
 
 <p align="center">
+  <img src="https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Обложка" width="300" style="border-radius: 15px;" />
+  <br>
   <b>🎵 Hot</b><br>
   <i>INNA</i>
 </p>
