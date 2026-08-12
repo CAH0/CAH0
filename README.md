@@ -46,4 +46,4 @@
 
 ## 🐍 Contribution Snake (анимированный!)
 
-![Snake animation](https://raw.githubusercontent.com/CAH0/CAH0/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CAH0/CAH0/output/github-snake-dark.svg)
