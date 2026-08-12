@@ -8,11 +8,7 @@
 
 ## 🖥️ System Info
 
-<!-- ASCII-аватар в стиле терминала (macOS) -->
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=ТВОЙ_ЮЗЕРНЕЙМ&theme=mac&color=1" width="300" />
-
-<!-- Neofetch-стиль с твоими данными -->
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=ТВОЙ_ЮЗЕРНЕЙМ&theme=mac&color=1" />
+![Крутое видео из Pinterest](assets/mollmiya.gif)
 
 ---
 ## 🛠️ Tech Stack
