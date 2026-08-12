@@ -18,14 +18,53 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Python -->
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-<!-- TensorFlow -->
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-<!-- PyTorch -->
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-<!-- FastAPI -->
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+## 🧠 AI & Machine Learning
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </a>
+</p>
+
+## 💾 Data & Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  </a>
+</p>
+
+## ⚡ Tools & Environment
+
+<p align="left">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+</p>
 
 ---
 
