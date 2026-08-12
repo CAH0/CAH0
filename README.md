@@ -20,6 +20,7 @@
 <p align="center">
   <img src="assets/tech-stack.svg" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
