@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Обложка" width="300" style="border-radius: 15px;" />
+  <img src="[https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg](https://avatars.yandex.net/get-music-content/33216/2997fd8a.a.2303842-1/400x400, https://avatars.yandex.net/get-music-content/33216/2997fd8a.a.2303842-1/800x800 2x)" alt="Обложка" width="300" style="border-radius: 15px;" />
   <br>
   <b>🎵 Hot</b><br>
   <i>INNA</i>
