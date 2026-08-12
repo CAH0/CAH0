@@ -8,7 +8,7 @@
 
 ## 🖥️ System Info
 
-![Крутое видео из Pinterest](assets/mollmiya.gif)
+![mollmiya](assets/mollmiya.gif)
 
 ---
 ## 🛠️ Tech Stack
