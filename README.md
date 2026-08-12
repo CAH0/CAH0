@@ -5,9 +5,15 @@
   <img src="assets/tech-stack.svg" />
 </p>
 
-[![Яндекс Музыка](https://img.shields.io/badge/Яндекс%20Музыка-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)](https://music.yandex.ru/album/2303842/track/20305141)
+<p align="center">
+  <a href="https://music.yandex.ru/album/2303842/track/20305141" target="_blank">
+    <img src="https://img.shields.io/badge/СЛУШАТЬ_НА-Яндекс_Музыка-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" />
+  </a>
+</p>
 
-> **Название твоего трека**  
-> *Имя исполнителя · Название альбома*
+<p align="center">
+  <b>🎵 Hot</b><br>
+  <i>INNA</i>
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/CAH0/CAH0/output/github-snake-dark.svg)
